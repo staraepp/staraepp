@@ -2,5 +2,5 @@
 
 ## hello!
 My name is Star! I started Roseline's && VKintox ARM64 architecture support,
-Mostly developing Prismshade (my Roblox shaders available for Linux, Android, Mac, and iOS!), Clide, and Fiber.
+I mostly develop Prismshade (my Roblox shaders available for Linux, Android, Mac, and iOS!), Clide, and Fiber.
 https://staraep.fun
